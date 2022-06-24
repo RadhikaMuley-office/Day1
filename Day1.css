@@ -43,7 +43,7 @@ section > article {
 
 
 #number{
-    height: 140px;
+    height: 210px;
     /* border: 2px black solid; */
     width: 100%;
     display: flex;
@@ -112,23 +112,24 @@ display: flex
     top: 210px;
     height: 34%;
     box-sizing: border-box;
+    
 
 }
 
 #cc{
-    height: 16%;
+    height: 12%;
     position: absolute;
     display: flex;
     justify-content: center;
     align-content: center;
     font-family: 'Courier Prime', monospace;
     color: white;
-    font-size: small;
+    font-size: xx-large;
     font-weight: 700;
-    top: 325px;
-    /* border: 2px solid white; */
+    top: 295px;
     text-transform: uppercase;
-    width: 100%;
+    width: 118%;
+    box-sizing: content-box;
 
 }
 
