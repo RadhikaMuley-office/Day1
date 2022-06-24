@@ -1,5 +1,14 @@
 #small{
     height: 30px;
     width: 40px;
-    clip-path: polygon(48% 0, 100% 0%, 33% 100%, 0 72%);
+    position: absolute;
+    z-index: 1;
+    top: 59px;
+    left: 13px;
+    height: 63px;
+    width: 28px;
+    background: #fff;
+    border-radius: 5px;
+    transform: rotate(50deg);
+    box-shadow: 0 0 13px 0 rgb(0 0 0 / 20%);
 }
